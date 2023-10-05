@@ -1,2 +1,4 @@
-# Alura-Cast
-Projeto feito durante o curso de grids Alura
+Usado para estudo de flexbox e layouts responsivos
+
+Acesse o link:
+https://aadrianobarros.github.io/AluraPlay/
