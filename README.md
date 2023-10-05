@@ -1,4 +1,5 @@
-Usado para estudo de flexbox e layouts responsivos
+Alura Cast
+Usado para estudo grids e layouts responsivos alura
 
 Acesse o link:
-https://aadrianobarros.github.io/AluraPlay/
+https://aadrianobarros.github.io/Alura-Cast/
